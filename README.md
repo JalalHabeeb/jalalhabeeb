@@ -1,5 +1,5 @@
 ![Header](https://github.com/JalalHabeeb/jalalhabeeb/blob/main/git2.jpg "Jalal Habeeb")
-![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb&show_icons=true&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=DAB92C)
+![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb&show_icons=true&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=167587)
 
 Here are some ideas to get you started:
 
