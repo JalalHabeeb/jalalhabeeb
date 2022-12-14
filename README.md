@@ -1,5 +1,5 @@
 ![Header](https://github.com/JalalHabeeb/jalalhabeeb/blob/main/git2.jpg "Jalal Habeeb")
-![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb)](https://github.com/jalalhabeeb/github-readme-stats)
+![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb)
 
 <!--
 **JalalHabeeb/jalalhabeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
