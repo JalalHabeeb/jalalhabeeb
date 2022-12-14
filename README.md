@@ -2,7 +2,7 @@
 ![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb&show_icons=true&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=32ABDA&icon_color=E44F25&line_height=30&text_bold=true&ring_color=ffd300)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalhabeeb&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=32ABDA&line_height=30)
 
-![HTML](https://img.shields.io/badge/<MarkUp>-<HTML>-<critical>)
+![HTML](https://img.shields.io/badge/MarkUp-HTML-critical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
