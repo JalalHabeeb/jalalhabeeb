@@ -1,6 +1,6 @@
 ![Header](https://github.com/JalalHabeeb/jalalhabeeb/blob/main/githubrepo.jpg "Jalal Habeeb")
 ![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb&show_icons=true&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=32ABDA&icon_color=E44F25&line_height=30&text_bold=true&ring_color=ffd300)
-```
+```js
 //Creating Person Class
 class Person {
   constructor(
