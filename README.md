@@ -12,7 +12,8 @@ class Person {
     tools,
     myLinkedIn,
     myGitHub
-  ) {
+  )
+  {
     this.firstName = firstName;
     this.lastName = lastName;
     this.email = email;
