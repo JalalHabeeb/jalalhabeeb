@@ -11,10 +11,9 @@ class Person {
     spokenLanguages,
     programingLanguages,
     tools,
-    linkedIn,
-    gitHub
-  )
-  {
+    myLinkedIn,
+    myGitHub
+  ) {
     this.firstName = firstName;
     this.lastName = lastName;
     this.email = email;
@@ -22,7 +21,8 @@ class Person {
     this.spokenLanguages = spokenLanguages;
     this.programingLanguages = programingLanguages;
     this.tools = tools;
-    (this.linkedIn = linkedIn), (this.gitHub = gitHub);
+    this.myLnkedIn = myLinkedIn;
+    this.myGitHub = myGitHub;
   }
 }
 
@@ -40,12 +40,7 @@ const mySelf = new Person(
 );
 
 console.log(
-  `my name is ${mySelf.firstName} ${mySelf.lastName}\n
-  I'm enthusiastic and always-learning full-stack web developer.\n
-  I do coding with: ${mySelf.programingLanguages} and use ${mySelf.tools}.\n
-  I speak ${mySelf.spokenLanguages}.\n
-  You can contact me at this email ${mySelf.email} or by calling ${mySelf.mobile}.\n
-  Follow me on linkedIn at: ${mySelf.linkedIn}, and on GitHub at: ${mySelf.gitHub}.`
+  `my name is ${mySelf.firstName} ${mySelf.lastName}\nI'm enthusiastic and always-learning full-stack web developer. I do coding with: ${mySelf.programingLanguages} and use ${mySelf.tools}.\nI speak ${mySelf.spokenLanguages}.\nYou can contact me at this email ${mySelf.email} or by calling ${mySelf.mobile}.\nFollow me on linkedIn at: ${mySelf.myLnkedIn}, and on GitHub at: ${mySelf.myGitHub}.`
 );
 
 ```
