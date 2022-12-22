@@ -2,7 +2,7 @@
 ```js
 //Creating Person Class
 class Person {
-  constructor(firstName, lastName, email, mobile, spokenLanguages, programingLanguages, tools, myLinkedIn, myGitHub)
+  constructor(firstName, lastName, email, mobile, spokenLanguages, programingLanguages, tools, myLinkedIn, myGitHub);
   {
     this.firstName = firstName;
     this.lastName = lastName;
@@ -14,30 +14,44 @@ class Person {
     this.myLnkedIn = myLinkedIn;
     this.myGitHub = myGitHub;
   }
+  speaks() {
+    console.log(this.spokenLanguages);
+  }
+  codes() {
+    console.log(this.programingLanguages);
+  }
+  usingTools() {
+    console.log(this.tools);
+  }
 }
 
 //Creating mySelf Object
-const mySelf = new Person(
+let mySelf = new Person(
   "Jalal",
   "Habeeb",
   "jalalhabeeb@gmail.com",
   "0687774474",
-  ["English", " Arabic", " Dutch (Intermediate)"],
-  ["MarkUp: HTML", " Style: CSS", " Code: JavaScript, React.JS, Node.JS"],
-  ["Visual Studio Code", " Git", " GitHub"],
+  ["English", "Arabic", "Dutch (Intermediate)"],
+  { MarkUp: "HTML", Style: "CSS", Code: "JavaScript, React.JS, Node.JS" },
+  ["Visual Studio Code", "Git", "GitHub"],
   "linkedin.com/in/jalal-habeeb/",
   "github.com/JalalHabeeb"
 );
 
 console.log(
-`my name is ${mySelf.firstName} ${mySelf.lastName}\n
-I'm enthusiastic and always-learning full-stack web developer. 
-I do coding with: ${mySelf.programingLanguages} and use ${mySelf.tools}.\n
-I speak ${mySelf.spokenLanguages}.\n
-You can contact me at this email ${mySelf.email} or by calling ${mySelf.mobile}.\n
-Follow me on linkedIn at: ${mySelf.myLnkedIn}, and on GitHub at: ${mySelf.myGitHub}.`
+  `my name is ${mySelf.firstName} ${mySelf.lastName}\nI'm enthusiastic and always-learning full-stack web developer. `
 );
 
+console.log(`I code with:`);
+mySelf.codes();
+console.log(`and use tools such:`);
+mySelf.usingTools();
+console.log(`The languages I speak are:`);
+mySelf.speaks();
+console.log(
+`You can contact me at this email ${mySelf.email} or by calling ${mySelf.mobile}.
+You can follow me on linkedIn at: ${mySelf.myLnkedIn}, and on GitHub at: ${mySelf.myGitHub}.`
+);
 ```
 ![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb&show_icons=true&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=32ABDA&icon_color=E44F25&line_height=30&text_bold=true&ring_color=ffd300)
 
