@@ -1,6 +1,5 @@
 ![Header](https://github.com/JalalHabeeb/jalalhabeeb/blob/main/githubrepo.jpg "Jalal Habeeb")
 ### You can copy-paste and run the following code (👇) in a code editor to see my bio.
-![fa-crown](fa-crown.svg)
 ```js
 //Creating Person Class
 class Person {
@@ -44,7 +43,7 @@ console.log(
   `my name is ${mySelf.firstName} ${mySelf.lastName}\nI'm enthusiastic and always-learning full-stack web developer. `
 );
 
-console.log(`🐱‍💻 I code with:`);
+console.log(`I code with:`);
 mySelf.codes();
 console.log(`and use tools such:`);
 mySelf.usingTools();
