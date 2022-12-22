@@ -43,7 +43,7 @@ console.log(
   `my name is ${mySelf.firstName} ${mySelf.lastName}\nI'm enthusiastic and always-learning full-stack web developer. `
 );
 
-console.log(`I code with:`);
+console.log(`🐱‍💻 I code with:`);
 mySelf.codes();
 console.log(`and use tools such:`);
 mySelf.usingTools();
