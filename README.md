@@ -2,17 +2,7 @@
 ```js
 //Creating Person Class
 class Person {
-  constructor(
-    firstName,
-    lastName,
-    email,
-    mobile,
-    spokenLanguages,
-    programingLanguages,
-    tools,
-    myLinkedIn,
-    myGitHub
-  )
+  constructor(firstName, lastName, email, mobile, spokenLanguages, programingLanguages, tools, myLinkedIn, myGitHub)
   {
     this.firstName = firstName;
     this.lastName = lastName;
