@@ -33,7 +33,7 @@ let mySelf = new Person(
   "jalalhabeeb@gmail.com",
   "0687774474",
   ["English", "Arabic", "Dutch (Intermediate)"],
-  { MarkUp: "HTML", Style: "CSS", Code: "![JavaScript](square-js.svg), React.JS, Node.JS" },
+  { MarkUp: "HTML", Style: "CSS", Code: "![JavaScript](https://github.com/JalalHabeeb/jalalhabeeb/blob/main/square-js.svg), React.JS, Node.JS" },
   ["Visual Studio Code", "Git", "GitHub"],
   "linkedin.com/in/jalal-habeeb/",
   "github.com/JalalHabeeb"
