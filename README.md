@@ -3,7 +3,7 @@
 # Hello World!
 My name is Jalal and I am a full-stack web developer.</br>
 I like to code and play sports. I am always enthusiastic to learn new things and dive into new technologies.</br>
-I appreciate small efforts every day, that build momentum over time [(1.01)^365 = 37.78]</br>
+I appreciate small efforts every day, that build momentum over time [ $1.01^{365} = 37.78$ ]</br>
 
 ```js
 do{
