@@ -5,6 +5,12 @@ My name is Jalal and I am a full-stack web developer.</br>
 I like to code and play sports. I am always enthusiastic to learn new things and dive into new technologies.</br>
 I appreciate small efforts every day, that build momentum over time [(1.01)^365 = 37.78]</br>
 
+```js
+do{
+  beBetterEveryDay();
+}while(true);
+```
+
 ![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb&show_icons=true&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=32ABDA&icon_color=E44F25&line_height=30&text_bold=true&ring_color=ffd300)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalhabeeb&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=32ABDA&line_height=30)
