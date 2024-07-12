@@ -5,10 +5,10 @@ My name is Jalal and I am a full-stack web developer.</br>
 I like to code and play sports and I'm not afraid to walk in uncharted territories.</br>
 I appreciate small efforts every day, that build momentum over time [ $1.01^{365} = 37.78$ ]</br>
 
-```js
-do{
+```jsx
+do {
   beBetterEveryDay();
-}while(true);
+} while(true);
 ```
 
 ![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalhabeeb&show_icons=true&theme=tokyonight&card_width=1209&title_color=ffffff&text_color=32ABDA&icon_color=E44F25&line_height=30&text_bold=true&ring_color=ffd300)
