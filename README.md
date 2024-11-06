@@ -7,7 +7,9 @@ I like to code and play sports and am not afraid to walk in uncharted territorie
 I appreciate small efforts every day, that build momentum over time [ $1.01^{365} = 37.78$ ]
 </p>
 
-[![Jalal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jalalhabeeb&width=1012)](https://wakatime.com/@jalalhabeeb)
+<p align="center">
+[![Jalal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jalalhabeeb)](https://wakatime.com/@jalalhabeeb)
+</p>
 
 ```tsx
 do {
