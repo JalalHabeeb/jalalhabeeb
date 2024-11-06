@@ -7,6 +7,8 @@ I like to code and play sports and am not afraid to walk in uncharted territorie
 I appreciate small efforts every day, that build momentum over time [ $1.01^{365} = 37.78$ ]
 </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jalalhabeeb)](https://github.com/anuraghazra/github-readme-stats)
+
 ```tsx
 do {
   beBetterEveryDay();
