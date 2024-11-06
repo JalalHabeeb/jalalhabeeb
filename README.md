@@ -2,6 +2,8 @@
 
 <p align="center">
 I like to code and play sports and am not afraid to walk in uncharted territories.
+</p>
+<p align="center">
 I appreciate small efforts every day, that build momentum over time [ $1.01^{365} = 37.78$ ]
 </p>
 
