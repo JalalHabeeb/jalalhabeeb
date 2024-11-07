@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=1012&height=75&lines=Hi+There+%F0%9F%91%8B;I'm+a+front-end+developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<span align="center" font-weight="bold">
+<span align="center">
 I like to code and cycle and am unafraid to walk in uncharted territories.
 </span>
 <span align="center">
